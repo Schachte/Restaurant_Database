@@ -13,14 +13,14 @@ https://www.draw.io/
 CSE 412: Phase 1 Requirements
 ========================
  * Due Date: Thursday, September 10th, 4:30pm, at the beginning of the class. 
- * Cover Page (with the team number and name, check list, and signatures) –- please see the [example](Examples/Phase_1IntermediateDeliverable_Example.pdf)
+ * Cover Page (with the team number and name, check list, and signatures) –- please see the [example](./Examples/Phase_1IntermediateDeliverable_Example.pdf)
  * Table of Contents
  * Requirement Description
    - Introduction 
    - Requirements
-   - Description of the enterprise/database -– please see the [example](Examples/Phase_1IntermediateDeliverable_Example.pdf)
- * ER diagram with min/max specification -– please see the [example](Examples/Phase_1IntermediateDeliverable_Example.pdf)
- * Group Status Report -- please see the [form](Forms/GroupStatusRepoortForm.doc)
+   - Description of the enterprise/database -– please see the [example](./Examples/Phase1_IntermediateDeliverable_Example.pdf)
+ * ER diagram with min/max specification -– please see the [example](./Examples/Phase_1IntermediateDeliverable_Example.pdf)
+ * Group Status Report -- please see the [form](./Forms/GroupStatusRepoortForm.doc)
  * Peer Evaluation will be submitted with the final deliverable of Phase 1, not with the intermediate deliverable
 
 Grading
