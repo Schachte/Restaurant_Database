@@ -5,7 +5,7 @@ Contact
 ========================
 - Ryan Schachte // (480)-452-8825 // code@asu.edu    
 - Patrick O'Connor // (928)-961-2994 // paoconno@asu.edu
-
+- Connor Maddox // (480)-882-5435 // clmaddox@asu.edu
 Entity Relation Diagram Tool
 ========================
 https://www.draw.io/
