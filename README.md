@@ -14,7 +14,7 @@ https://www.draw.io/
 
 CSE 412: Phase 1 Final Requirements
 ========================
- * Due Date: Thursday, September 10th, 4:30pm, at the beginning of the class.
+ * Due Date: Thursday, September 24th, 4:30pm, at the beginning of the class.
  * Cover Page (with the team number and name, check list, and signatures) –- please see the example on Blackboard
  * Table of Contents
  * Requirement Description
@@ -41,8 +41,8 @@ Grading
 | 0.25 pt | Cover Page for the final submission |
 | 0.25 pt | Table of Content for the final submission |
 | 5 pts | Constraints not in ER schema: complete |
-| 5 pts | Forms (at least 8 forms) - Completeness of description |
-| 5 pts | Reports (at least 4 reports) - Appropriate, completeness of description |
-| 5 pts | Queries (at least 8 queries) - Appropriate, non-trivial, and completeness of description - Not duplicating a report |
+| 5 pts | Forms (at least 8 forms) <br> - Completeness of description |
+| 5 pts | Reports (at least 4 reports) <br> - Appropriate, completeness of description |
+| 5 pts | Queries (at least 8 queries) <br> - Appropriate, non-trivial, and completeness of description <br> - Not duplicating a report |
 | 2 pts | Group Status Report for the final submission |
-| 50 pts | Total - Note: Your individual score recorded on myASU may differ from the group grade due to absences or confidential phase evaluations. |
+| 50 pts | Total <br> - Note: Your individual score recorded on myASU may differ from the group grade due to absences or confidential phase evaluations. |
