@@ -8,6 +8,10 @@ Contact
 - Connor Maddox // (480)-882-5435 // clmaddox@asu.edu
 - Lisa Ranjbar // (361)-774-7311 // lrashidi@asu.edu
 
+#Google Doc
+========================
+https://drive.google.com/drive/folders/0BwNQKI4vBDCINnV6ejRFRFlacjA
+
 Entity Relation Diagram Tool
 ========================
 https://www.draw.io/
