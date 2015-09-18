@@ -9,8 +9,8 @@ Contact
 - Lisa Ranjbar // (361)-774-7311 // lrashidi@asu.edu
 
 #Google Doc
-https://drive.google.com/drive/folders/0BwNQKI4vBDCINnV6ejRFRFlacjA
-
+Forms, Queries, Reports<br>
+https://docs.google.com/document/d/1k3fgPbpIaodT--ptwdxZbVG7CbwAJRYuvwIonFlClkM/edit#
 Entity Relation Diagram Tool
 ========================
 https://www.draw.io/
